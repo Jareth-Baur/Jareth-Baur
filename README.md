@@ -5,7 +5,7 @@
 - 📫 How to reach me
   Facebook: https://web.facebook.com/profile.php?id=100089437393864
   Gmail: jarethbaur0223@gmail.com
-  Instagram: https://www.instagram.com/jareth_baur/
+  Instagram: https://www.instagram.com/simply_jareth/
 - 😄 Pronouns: He
 - ⚡ Fun fact: :))
 
