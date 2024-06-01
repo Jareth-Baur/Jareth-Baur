@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jareth-Baur
 - 👀 I’m currently interested in java GUI programming, as well as java framework (Spring-Boot)
 - 🌱 I'm currently learning php frameworks and javascript
-- 🌱 I’m currently studying at Davao Oriental State University Banaybanay Campus (DOrSUBC) Second Year IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   Facebook: https://web.facebook.com/profile.php?id=100089437393864
