@@ -1,7 +1,7 @@
 <!-- Profile README with Animations -->
 
 <h1 align="center">Hi there 👋, I'm Jareth Baur</h1>
-<h3 align="center">A passionate developer and tech enthusiast 🚀</h3>
+<h3 align="center">A passionate student learning in deveplopment and tech enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+developer;Lifelong+learner+%F0%9F%93%9A;Always+building+something+cool!+%F0%9F%94%A5" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 - 🌱 I’m learning **Next.js, TypeScript, and AI tools**
 - 💬 Ask me about **web dev, React, or anything tech!**
 - 📫 How to reach me: **jarethbaur0223@gmail.com**
-- ⚡ Fun fact: I love building things that help people 🤖
+- ⚡ Fun fact: Jack of all trades, Master of none 🤖
 
 ---
 
