@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,nodejs,html,css,tailwind,python,github,vscode" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
   <a href="mailto:jarethbaur0223@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://facebook.com/Jareth Bayron Baur" target="_blank">
+  <a href="https://facebook.com/jareth.bayron.baur" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
