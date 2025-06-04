@@ -1,6 +1,6 @@
 <!-- Profile README with Animations -->
 
-<h1 align="center">Hi there 👋, I'm Jareth Baur</h1>
+<h1 align="center">Hi 👋, I'm Jareth Baur</h1>
 <h3 align="center">A passionate student learning in deveplopment and tech enthusiast 🚀</h3>
 
 <p align="center">
