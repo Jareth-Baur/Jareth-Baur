@@ -4,7 +4,7 @@
 <h3 align="center">A passionate student learning in deveplopment and tech enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full-stack+developer;Lifelong+learner+%F0%9F%93%9A;Always+building+something+cool!+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Student+learning+in+development;Lifelong+learner+%F0%9F%93%9A;Always+building+something+cool!+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
