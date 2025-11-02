@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Nothing at the moment**
+- 🔭 I’m currently working on **CropEye**
 - 🌱 I’m learning **Next.js, TypeScript, and AI tools**
 - 💬 Ask me about **web dev, React, or anything tech!**
 - 📫 How to reach me: **jarethbaur0223@gmail.com**
