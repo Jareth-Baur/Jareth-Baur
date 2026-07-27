@@ -8,7 +8,7 @@ I'm interested in building web applications, backend systems, and AI-powered sol
 
 **Languages**
 
-Java • Python • JavaScript • TypeScript • PHP • SQL
+Java • Python • JavaScript • TypeScript • PHP • SQL • Kotlin
 
 **Frameworks & Tools**
 
