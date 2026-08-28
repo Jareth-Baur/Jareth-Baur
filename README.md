@@ -17,8 +17,9 @@ Next.js • React • FastAPI • Laravel • Tailwind CSS • JavaFX • Supaba
 ## Current Projects
 
 - **CropEye** — AI-powered maize leaf disease detection using YOLOv8, FastAPI, Next.js, and Supabase.
-- **Queue Management System** — JavaFX desktop application with role-based authentication and queue history.
+- **Attendify** — A modern web-based attendance management system designed to simplify student attendance tracking and management. 
 - **Portfolio** — Personal portfolio built with Next.js and Tailwind CSS.
+- **Unikit** - A free all-in-one utility app. Built with React, JavaScript, and Python. 
 
 ## Find me
 
